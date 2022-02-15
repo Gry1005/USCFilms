@@ -41,8 +41,8 @@ public class HomeFragment extends Fragment {
 
     private HomeViewModel homeViewModel;
 
-    //private String baseURL = "http://10.0.2.2:8080/api/posts/";
-    private String baseURL = "https://winter-sequence-308604.wl.r.appspot.com/api/posts/";
+    private String baseURL = "http://10.0.2.2:8080/api/posts/";
+    //private String baseURL = "https://winter-sequence-308604.wl.r.appspot.com/api/posts/";
 
     private Context mContext;
 
